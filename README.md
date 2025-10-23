@@ -22,6 +22,21 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/892f5429-2d52-4720-ad68-46e45ebb4709" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
